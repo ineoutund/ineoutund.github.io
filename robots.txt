@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ineoutund.github.io/sitemap.html.gz
+Sitemap: https://ineoutund.github.io/app/sitemap.html.gz
+Sitemap: https://ineoutund.github.io/assets/sitemap.html.gz
+Sitemap: https://ineoutund.github.io/css/sitemap.html.gz
+Sitemap: https://ineoutund.github.io/data/sitemap.html.gz
+Sitemap: https://ineoutund.github.io/includes/sitemap.html.gz
+Sitemap: https://ineoutund.github.io/item/sitemap.html.gz
+Sitemap: https://ineoutund.github.io/src/sitemap.html.gz
